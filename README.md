@@ -1,8 +1,17 @@
-# Hi there, I'm Jagnoor Kaur! 👋
+### Hi there, I'm Jagnoor Kaur! 👋
 
-- 👀 I’m interested in developing innovative software solutions, full-stack development, and contributing to open source projects.
-- 🌱 I’m currently learning advanced algorithms, machine learning, and software development.
-- 💞️ I’m looking to collaborate on exciting projects involving web development, automation, and data analysis.
-- 📫 How to reach me: [jagnoork10@gmail.com.com](mailto:jagnoork10@gmail.com) 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I'm not coding, you can find me exploring the latest tech trends, playing chess, writing poetry and sometimes enjoyong nature.
+🚀 **Passionate Software Developer** specializing in full-stack development, Android applications, and cutting-edge technologies.
+
+💻 **Current Focus:** Advancing my knowledge in machine learning, algorithms, and software architecture to create impactful solutions.
+
+🌐 **What I Do:** Collaborating on innovative projects in web development, automation, and data analysis. Open to contributing to open source and learning from the developer community.
+
+📬 **Get in Touch:** [jagnoork10@gmail.com](mailto:jagnoork10@gmail.com)
+
+💡 **Fun Fact:** Beyond coding, I enjoy exploring tech trends, playing chess, writing poetry, and immersing myself in nature.
+
+😄 **Pronouns:** She/Her
+
+---
+
+
